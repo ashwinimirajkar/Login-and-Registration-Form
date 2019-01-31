@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UserLogin</string>
+
+    <!--Login-->
+    <string name="login_text">Login</string>
+    <string name="facebook">Connect With Facebook</string>
+    <string name="google">Connect With Google</string>
+    <string name="donot_have_account">Don\'t have an account?</string>
+    <string name="signup">SIGNUP</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="terms">By login, I agree to all the</string>
+    <string name="terms_and_conditions">Terms &amp; Conditions</string>
+    <string name="and">And</string>
+    <string name="privacy_policy">\ Privacy Policy</string>
+    <string name="dot">.</string>
+    <string name="login">LOGIN</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="signup_terms">By signup, I agree to all the</string>
+    <string name="email_or_phone">Email Or Mobile</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+
+    <!--Font Awesome Icons-->
+    <string name="fa_icon_remove">&#xf00d;</string>
+    <string name="fa_icon_facebook">&#xf09a;</string>
+    <string name="fa_icon_google">&#xf1a0;</string>
+
+</resources>

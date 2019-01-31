@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#2E86C1</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightBlue">#2E86C1</color>
+    <color name="colorLightBlack">#191919</color>
+    <color name="colorFacebookButton">#37599C</color>
+    <color name="colorGoogleButton">#DB4437</color>
+    <color name="colorLightGray">#d9d9d9</color>
+    <color name="color_sky_blue">#3498DB</color>
+    <color name="colorGray">#666666</color>
+
+</resources>
